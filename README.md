@@ -20,17 +20,17 @@ Welcome to Chat with PDF using Gemini—a powerful application that lets you int
 ## 🧠 Behind the Scenes
 This app is powered by the following technologies:
 
-Streamlit: For building a clean and interactive UI.
-PyPDF2: To extract text from PDF documents.
-LangChain: For managing text splitting, embeddings, and the QA chain.
-Google Generative AI: For creating high-quality embeddings and generating conversational responses.
-FAISS: For efficient similarity search and retrieval.
-💡 Use Cases
-Research: Quickly locate specific information in lengthy research papers.
-Education: Students can query textbooks and lecture notes.
-Business: Extract crucial insights from reports, manuals, or contracts.
-🌟 Getting Started
-To run the app locally, follow these steps:
+1. Streamlit: For building a clean and interactive UI.
+2. PyPDF2: To extract text from PDF documents.
+3. LangChain: For managing text splitting, embeddings, and the QA chain.
+4. Google Generative AI: For creating high-quality embeddings and generating conversational responses.
+5. FAISS: For efficient similarity search and retrieval.
+   
+## 💡 Use Cases
+
+1. Research: Quickly locate specific information in lengthy research papers.
+2. Education: Students can query textbooks and lecture notes.
+3. Business: Extract crucial insights from reports, manuals, or contracts.
 
 ## 📈 Future Enhancements
 
