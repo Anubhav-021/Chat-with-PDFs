@@ -32,7 +32,8 @@ Business: Extract crucial insights from reports, manuals, or contracts.
 🌟 Getting Started
 To run the app locally, follow these steps:
 
-📈 Future Enhancements
+## 📈 Future Enhancements
+
 Multi-language Support: Extending support for PDFs in multiple languages.
 Improved Chunking: Experimenting with different text-splitting techniques for better context retention.
 Enhanced UI/UX: Adding more user customization options and visual improvements.
