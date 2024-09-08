@@ -10,6 +10,10 @@ Welcome to Chat with PDF using Gemini—a powerful application that lets you int
 4. FAISS Vector Store: Store and search through document embeddings with FAISS, ensuring fast and relevant responses to your queries.
 5. Conversational AI: Utilize Google's Gemini model for precise and context-aware question-answering from your documents.
 6. User-Friendly Interface: Built with Streamlit, the app offers an intuitive interface that requires no coding knowledge to use.
+
+![Screenshot 2024-09-08 133946](https://github.com/user-attachments/assets/82b37306-d31f-46ad-a559-f7ccef01cddc)
+![Screenshot 2024-09-08 134121](https://github.com/user-attachments/assets/b7c29bd9-ed08-4f9b-ba64-9d7943205cf2)
+
    
 ## 🛠️ How It Works
 
